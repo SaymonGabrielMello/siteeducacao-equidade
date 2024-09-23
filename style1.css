@@ -1,0 +1,13 @@
+body{
+    background-image: -webkit-image-set("Educaçao5.jfif");
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-size: contain;
+}
+header{
+    background-color: aliceblue;
+    padding: 10px;
+
+}
+.paragrafo1{
+    color: darkcyan;
+}
